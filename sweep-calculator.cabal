@@ -7,11 +7,11 @@ cabal-version: 1.12
 name:           sweep-calculator
 version:        0.1.0.0
 description:    Please see the README on GitHub at <https://github.com/githubuser/sweep-calculator#readme>
-homepage:       https://github.com/githubuser/sweep-calculator#readme
-bug-reports:    https://github.com/githubuser/sweep-calculator/issues
-author:         Author name here
-maintainer:     example@example.com
-copyright:      2022 Author name here
+homepage:       https://github.com/booklearner/sweep-calculator#readme
+bug-reports:    https://github.com/booklearner/sweep-calculator/issues
+author:         booklearner
+maintainer:     hey@booklearner.org
+copyright:      2022 booklearner
 license:        BSD3
 license-file:   LICENSE
 build-type:     Simple
