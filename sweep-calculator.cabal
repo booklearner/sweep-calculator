@@ -6,8 +6,8 @@ cabal-version: 1.12
 
 name:           sweep-calculator
 version:        0.1.0.0
-description:    Please see the README on GitHub at <https://github.com/githubuser/sweep-calculator#readme>
-homepage:       https://github.com/booklearner/sweep-calculator#readme
+description:    Calculate the amount and gas to transfer your entire Ethereum balance from one wallet to another (i.e. leave no fractional tokens behind).
+homepage:       https://github.com/booklearner/sweep-calculator
 bug-reports:    https://github.com/booklearner/sweep-calculator/issues
 author:         booklearner
 maintainer:     hey@booklearner.org
