@@ -21,7 +21,7 @@ extra-source-files:
 
 source-repository head
   type: git
-  location: https://github.com/githubuser/sweep-calculator
+  location: https://github.com/booklearner/sweep-calculator
 
 library
   exposed-modules:
